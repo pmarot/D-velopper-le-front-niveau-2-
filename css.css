@@ -26,3 +26,33 @@
 [href] {
     font-weight: bold;
 }
+
+.jumbotron {
+    background-image: url("img/3.jpg");
+    height: 600px;
+    
+}
+
+.color_green {
+    color: #50D8AF;
+}
+
+.jumbotron h1 {
+    font-size: 400%;
+    color: #0C2E8A;
+}
+
+.button1 {
+    background-color: #0C2E8A;
+     
+}
+
+.button2 {
+    background-color: #50D8AF;
+}
+
+.jumbotron span {
+    color: #50D8AF;
+    text-decoration: underline;
+}
+
