@@ -93,3 +93,22 @@ section ol {
 footer button{
     background-color: #081E5B;
 }
+
+footer h2 {
+    color: #0C2E8A;
+    font-weight: bold;
+}
+
+.icone_footer {
+    width: 25px;
+    height: auto;
+    color: #50D8AF;
+}
+
+footer .text-muted {
+    font-weight: bold;
+}
+
+footer #button3 {
+    background-color: #50D8AF;
+}
