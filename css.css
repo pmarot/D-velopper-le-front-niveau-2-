@@ -85,3 +85,11 @@ section ol {
     width: 70px;
     height: auto;
 }
+
+#container_bleu_footer {
+    background-color: #081E5B;
+}
+
+footer button{
+    background-color: #081E5B;
+}
