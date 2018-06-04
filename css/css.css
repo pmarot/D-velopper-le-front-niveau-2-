@@ -1,0 +1,115 @@
+.logo{
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.txt_color_header {
+    color: #625559;
+}
+
+#reveal span {
+    color: #323F8F;
+}
+
+#reveal {
+    font-size: 260%;
+    font-weight: bold;
+    margin-right: 380px;
+}
+
+.color_link {
+    color: red;
+}
+
+[href] {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-image: url("../img/3.jpg");
+    height: 600px;
+    
+}
+
+.color_green {
+    color: #50D8AF;
+}
+
+.jumbotron h1 {
+    font-size: 400%;
+    color: #0C2E8A;
+}
+
+.button1 {
+    background-color: #0C2E8A;
+     
+}
+
+.button2 {
+    background-color: #50D8AF;
+}
+
+.jumbotron span {
+    color: #50D8AF;
+    text-decoration: underline;
+}
+
+#image_ordinateur {
+    width: 550px;
+    height: auto;
+}
+
+section h2 {
+    color: #0C2E8A;
+    font-weight: bold;
+}
+
+section p {
+    font-style: italic;
+}
+
+section ol {
+    list-style-image: url("../img/check-circle.svg");
+}
+
+.image_carre {
+    width: 60px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+.rounded-circle {
+    width: 70px;
+    height: auto;
+}
+
+#container_bleu_footer {
+    background-color: #081E5B;
+}
+
+footer button{
+    background-color: #081E5B;
+}
+
+footer h2 {
+    color: #0C2E8A;
+    font-weight: bold;
+}
+
+.icone_footer {
+    width: 25px;
+    height: auto;
+    color: #50D8AF;
+}
+
+footer .text-muted {
+    font-weight: bold;
+}
+
+footer #button3 {
+    background-color: #50D8AF;
+}
+
