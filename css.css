@@ -81,3 +81,7 @@ section ol {
     margin-right: 20px;
 }
 
+.rounded-circle {
+    width: 70px;
+    height: auto;
+}
