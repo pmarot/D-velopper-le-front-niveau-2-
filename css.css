@@ -56,3 +56,28 @@
     text-decoration: underline;
 }
 
+#image_ordinateur {
+    width: 550px;
+    height: auto;
+}
+
+section h2 {
+    color: #0C2E8A;
+    font-weight: bold;
+}
+
+section p {
+    font-style: italic;
+}
+
+section ol {
+    list-style-image: url("img/check-circle.svg");
+}
+
+.image_carre {
+    width: 60px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
